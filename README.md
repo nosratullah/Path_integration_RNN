@@ -21,4 +21,4 @@ where in the remaining we will take R = 1MΩ. Every neuron has an instantaneous 
 $$
 r_{i}(t)=r_{0} g\left(h_{i}(t)\right)=r_{0} \frac{1}{1+e^{-2 \alpha\left(h_{i}(t)-\beta\right)}}
 $$
-![sigmoid](figures/0.1.png)
+![sigmoid](/figures/0.1.png)
